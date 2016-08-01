@@ -1,0 +1,10 @@
+elcio:
+  picture: elcio.png
+  role: CEO
+ringo:
+  picture: ringo.png
+  role: CTO
+bruce:
+  picture: bruce.png
+  role: CFO
+
